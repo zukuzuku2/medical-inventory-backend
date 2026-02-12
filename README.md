@@ -21,7 +21,7 @@ El archivo `.env` ya está configurado con:
 
 ```
 PORT=3000
-DATABASE_URL="file:./dev.db"
+DATABASE_URL="file:../prisma/dev.db"
 ```
 
 ## Base de Datos
